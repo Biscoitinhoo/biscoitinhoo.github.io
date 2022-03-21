@@ -1,5 +1,1 @@
-Here you can say lots of fun things about your site.
-
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+Building softwares to help humans. You also say that, but because you want to impress recruiters. I don't.
