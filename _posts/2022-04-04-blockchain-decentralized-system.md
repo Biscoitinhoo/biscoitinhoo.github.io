@@ -22,11 +22,11 @@ As a consequence of the anonymity, money laundering with cryptocurrencies has be
 
 Imagine that you, me, and Johnny want to create a system similar to Bitcoin. All the monetary transactions we make with each other are stored on a sheet of paper. At the end of each month, we pay what we owe each other.
 
-![alt text](images/2022-04-04-blockchain-decentralized-system/transaction.png)
+![alt text](/images/2022-04-04-blockchain-decentralized-system/transaction.png)
 
 This is, in a nutshell, how a Blockchain works with cryptocurrencies: It stores all transactions in public form. If we were all honest, this system would work perfectly: nobody would change the value of the transactions, the sender or the receiver of the transactions. But in this paper scenario, nothing prevents someone from taking a pen and adding a few extra zeros to Johnny's transaction.
 
-![alt text](images/2022-04-04-blockchain-decentralized-system/transaction-02.png)
+![alt text](/images/2022-04-04-blockchain-decentralized-system/transaction-02.png)
 
 Two things prevent the data in a Blockchain from being altered: its architecture, which will be commented on, and mining.
 
@@ -47,7 +47,7 @@ Imagine the Blockchain as the name implies: a chain of blocks connected by a cha
 
 Its architecture consists of "blocks" that have the reference of the previous block (chain) - like an interconnected chain - and each block has a stored information (a monetary transaction, for example). Having a reference to the previous block is what makes the Blockchain immutable, i.e., almost impossible to have its information changed.
 
-![alt text](images/2022-04-04-blockchain-decentralized-system/blockchain.png)
+![alt text](/images/2022-04-04-blockchain-decentralized-system/blockchain.png)
 
 Each block contains the following information:
 
@@ -91,13 +91,13 @@ This means that you could only successfully alter the records of a blockchain if
 
 In May 2021, Elon Musk - one of today's biggest cryptocurrency influencers - tweeted about Tesla, his electric vehicle company, no longer accepting Bitcoin as a form of payment.
 
-![alt text](images/2022-04-04-blockchain-decentralized-system/dk13xl5ejry61.png)
+![alt text](/images/2022-04-04-blockchain-decentralized-system/dk13xl5ejry61.png)
 
 According to him, the rapid growth in the use of fossil fuels for mining the cryptocurrency worries him.
 
 Bitcoin started to have a lot of visibility a few years ago, which made many people enter the mining market. Consequently, the demand for power and GPUs have increased dramatically, which directly influences their markets.
 
-![alt text](images/2022-04-04-blockchain-decentralized-system/15843.jpeg)
+![alt text](/images/2022-04-04-blockchain-decentralized-system/15843.jpeg)
 
 It is estimated that to validate a single Bitcoin transaction, about 2100 kWh of energy is used, which is roughly what an average American household consumes in 75 days.
 
