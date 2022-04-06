@@ -20,11 +20,11 @@ As a consequence of the anonymity, money laundering with cryptocurrencies has be
 
 ### Decentralized system in practice
 
-Imagine that you, me, and Johnny want to create a system similar to Bitcoin. All the monetary transactions we make with each other are stored on a sheet of paper. At the end of each month, we pay what we owe each other.
+Imagine that you, me, and Joãozinhho want to create a system similar to Bitcoin. All the monetary transactions we make with each other are stored on a sheet of paper. At the end of each month, we pay what we owe each other.
 
 ![alt text](/images/2022-04-04-blockchain-decentralized-system/transaction.png)
 
-This is, in a nutshell, how a Blockchain works with cryptocurrencies: It stores all transactions in public form. If we were all honest, this system would work perfectly: nobody would change the value of the transactions, the sender or the receiver of the transactions. But in this paper scenario, nothing prevents someone from taking a pen and adding a few extra zeros to Johnny's transaction.
+This is, in a nutshell, how a Blockchain works with cryptocurrencies: It stores all transactions in public form. If we were all honest, this system would work perfectly: nobody would change the value of the transactions, the sender or the receiver of the transactions. But in this paper scenario, nothing prevents someone from taking a pen and adding a few extra zeros to Joãozinho's transaction.
 
 ![alt text](/images/2022-04-04-blockchain-decentralized-system/transaction-02.png)
 
