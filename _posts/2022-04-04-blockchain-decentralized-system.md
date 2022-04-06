@@ -20,7 +20,7 @@ As a consequence of the anonymity, money laundering with cryptocurrencies has be
 
 ### Decentralized system in practice
 
-Imagine that you, me, and Joãozinhho want to create a system similar to Bitcoin. All the monetary transactions we make with each other are stored on a sheet of paper. At the end of each month, we pay what we owe each other.
+Imagine that you, me, and Joãozinho want to create a system similar to Bitcoin. All the monetary transactions we make with each other are stored on a sheet of paper. At the end of each month, we pay what we owe each other.
 
 ![alt text](/images/2022-04-04-blockchain-decentralized-system/transaction.png)
 
