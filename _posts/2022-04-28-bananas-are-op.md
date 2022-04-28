@@ -1,7 +1,7 @@
 ## [EN-US] Bananas are OP. Here's why.
 
 I never was a fruit guy. To be honest, I remember eating fruits with more frequency when I was about ~ 10 years old. After that, I (not proudly) didn't eat too much
-fruits. And yeah, I mean *ANY* kind of fruit. Also, I mean any fruit at all. Not even a Babana (note that it's 'Banana', not 'banana', because now I'm conviced that Bananas are a kind of divinity) - which I remembered yesterday how good it was.
+fruits. And yeah, I mean *ANY* kind of fruit. Also, I mean any fruit at all. Not even a Banana (note that it's 'Banana', not 'banana', because now I'm conviced that Bananas are a kind of divinity) - which I remembered yesterday how good it was.
 
 ## Why Bananas are OP.
 
