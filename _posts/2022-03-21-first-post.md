@@ -1,4 +1,4 @@
-## Obligatory "why I created this blog" first post.
+## [EN-US] Obligatory "why I created this blog" first post.
 
 At first, I wanted to create my own blog from the scratch. I opened my terminal, executed a new React application and gave up when I looked at the framework icon. I thought about how many front-end related things I would have to write and just closed everything.       
 

@@ -19,7 +19,7 @@ github_username: "Biscoitinhoo"
 #########################################################################################
 theme: "minima"
 
-rss: rss
+rss: Blog's RSS
 
 kramdown:
   syntax_highlighter_opts:

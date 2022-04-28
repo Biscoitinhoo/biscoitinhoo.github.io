@@ -1,4 +1,4 @@
-## How does Blockchain allow a system to be decentralized?
+## [EN-US] How does Blockchain allow a system to be decentralized?
 
 ### What are centralized and decentralized services?
 
