@@ -20,7 +20,7 @@ Stop and think about it. A natural fruit have such a genius design. You look at 
 First, the Banana peel protect the fruit. Besides protecting it, the peel contains NUTRIENTS!!! There is literally no downside - at least as far as I know. I never ate the peel and I don't know if I want to, but just the fact that Banana's shield contains nutrients is an incredible thing.
 Second, the shape of a peeled banana is satisfying to look at. When you're eating something beautiful, you naturally want more of that food. That's the case of Bananas.
 
-![alt text](/images/2022-04-28-bananas-are-op/peeled_banana.jpg)
+![alt text](/images/2022-04-28-bananas-are-op/peeled_banana.png)
 
 Third, you can barely feel Bananas seeds. I don't like eating Apple seeds, for example, but I see no problem eating a Banana seed. Also a really good design point.
 
@@ -32,15 +32,15 @@ Genuine question: Is there someone in this life that doesn't like bananas taste?
 
 Simply amazing. Can you understand that? You eat the banana but you still got the peel. You don't need to necessarily throw it away in a trash, you can just throw it around plants. There are better ways to use banana peel as fertilizer, but this will not harm the environment. +10 points for Bananas.
 
-## Bananas are healthy
-
-Last but not least, bananas are very healthy. It has high levels of potassium, which helps regulate water levels in the body. It is rich in vitamins, namely A, C, E and the B complex. It also has essential minerals such as calcium, zinc, magnesium, and more. How can something be good and healthy? OP.
-
 ## Banana is synonymous of chimpanzees, the smarter animal before us.
 
 Some haters may say that we "think that chimpanzees eat Bananas" because they are grown in tropical areas, where chimpanzees usually live. You can believe in that if you have an average IQ, but if you think more about it, you realize that chimpanzees eat Bananas (and are their preferred fruit) because they know everything that you're reading. They know how OP Bananas are and know that they get advantage eating a fruit like that.
 
 Why do you think that hippos aren't smart as chimpanzees? The only accepted answer is because they don't eat Bananas as chimpanzees do. Simple like that.
+
+## Bananas are healthy
+
+Last but not least, bananas are very healthy. It has high levels of potassium, which helps regulate water levels in the body. It is rich in vitamins, namely A, C, E and the B complex. It also has essential minerals such as calcium, zinc, magnesium, and more. How can something be good and healthy? OP.
 
 ## Conclusion
 
