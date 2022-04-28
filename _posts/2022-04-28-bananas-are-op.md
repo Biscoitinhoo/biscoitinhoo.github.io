@@ -18,19 +18,17 @@ Stop and think about it. A natural fruit have such a genius design. You look at 
 ![alt text](/images/2022-04-28-bananas-are-op/banana.png)
 
 First, the Banana peel protect the fruit. Besides protecting it, the peel contains NUTRIENTS!!! There is literally no downside - at least as far as I know. I never ate the peel and I don't know if I want to, but just the fact that Banana's shield contains nutrients is an incredible thing.
-Second, the shape of a peeled banana is satisfying to look at. When you're eating something beautiful, you naturally want more of that food. That's the case of Bananas.
+Second, the shape of a peeled Banana is satisfying to look at. When you're eating something beautiful, you naturally want more of that food. That's the case of Bananas.
 
 ![alt text](/images/2022-04-28-bananas-are-op/peeled_banana.png)
 
-Third, you can barely feel Bananas seeds. I don't like eating Apple seeds, for example, but I see no problem eating a Banana seed. Also a really good design point.
-
 ## Bananas are tasty
 
-Genuine question: Is there someone in this life that doesn't like bananas taste? Someone that says: "Oh, well, I don't like the sweet of Bananas. I prefer Apples!". Honestly, I don't think so. Bananas taste are just incredible, everything is balanced. That means that you can eat something healthy and that is tasty. Again, another incredible point from Bananas.
+Genuine question: Is there someone in this life that doesn't like Bananas taste? Someone that says: "Oh, well, I don't like the sweet of Bananas. I prefer Apples!". Honestly, I don't think so. Bananas taste are just incredible, everything is balanced. That means that you can eat something healthy and that is tasty. Again, another incredible point from Bananas.
 
 ## Bananas can be used as fertilizer
 
-Simply amazing. Can you understand that? You eat the banana but you still got the peel. You don't need to necessarily throw it away in a trash, you can just throw it around plants. There are better ways to use banana peel as fertilizer, but this will not harm the environment. +10 points for Bananas.
+Simply amazing. Can you understand that? You eat the Banana but you still got the peel. You don't need to necessarily throw it away in a trash, you can just throw it around plants. There are better ways to use Banana peel as fertilizer, but this will not harm the environment. +10 points for Bananas.
 
 ## Banana is synonymous of chimpanzees, the smarter animal before us.
 
@@ -40,7 +38,7 @@ Why do you think that hippos aren't smart as chimpanzees? The only accepted answ
 
 ## Bananas are healthy
 
-Last but not least, bananas are very healthy. It has high levels of potassium, which helps regulate water levels in the body. It is rich in vitamins, namely A, C, E and the B complex. It also has essential minerals such as calcium, zinc, magnesium, and more. How can something be good and healthy? OP.
+Last but not least, Bananas are very healthy. It has high levels of potassium, which helps regulate water levels in the body. It is rich in vitamins, namely A, C, E and the B complex. It also has essential minerals such as calcium, zinc, magnesium, and more. How can something be good and healthy? OP.
 
 ## Conclusion
 
